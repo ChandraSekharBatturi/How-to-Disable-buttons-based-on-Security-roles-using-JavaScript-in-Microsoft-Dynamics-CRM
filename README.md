@@ -1,0 +1,1 @@
+# How-to-Disable-buttons-based-on-Security-roles-using-JavaScript-in-Microsoft-Dynamics-CRM
