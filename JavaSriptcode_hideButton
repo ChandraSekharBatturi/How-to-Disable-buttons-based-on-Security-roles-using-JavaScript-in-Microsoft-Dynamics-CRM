@@ -1,4 +1,4 @@
-unction showButton() {
+function showButton() {
 	//starting stage button visibility 
     var bool = true;
     // id of users security role
